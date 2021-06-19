@@ -1,0 +1,1 @@
+puts "AYAKA".length

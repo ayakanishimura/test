@@ -1,0 +1,1 @@
+puts "ayaka".upcase
